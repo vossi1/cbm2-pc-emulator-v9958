@@ -1,0 +1,2 @@
+#!/bin/sh
+imager.pl -i $1.ima -o $1.d82
